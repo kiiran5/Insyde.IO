@@ -82,8 +82,8 @@ The frontend will run on `http://localhost:5173`
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-#🎥 Demo Video
+## 🎥 Demo Video
 
-#Contact
+## Contact
 Feel free to ask any type of questions.
 Email: kiran_tummala@srmap.edu.in
