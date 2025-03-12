@@ -1,11 +1,11 @@
 # INSYDE - Web-Based CAD Viewer
 
-INSYDE is a web-based CAD viewer that allows users to upload, view, and manipulate 3D models (STL/OBJ). The project includes authentication features (login/register), file uploads. The frontend is built with React and Three.js, while the backend is developed using Express.js and MongoDB.
+INSYDE is an interactive web application designed for viewing and manipulating 3D models in STL and OBJ formats. The platform allows users to authenticate, upload, and interact with 3D files efficiently. The frontend is developed using React.js and Three.js, while the backend is powered by Express.js and MongoDB for secure data handling.
 
 ## Features
-- **User Authentication** (Register/Login)
+- **User Authentication** (Sign up & Login)
 - **Upload 3D Models** (STL/OBJ format)
-- **View & Manipulate Models** (Rotate, Zoom, Reset, Download, Grid, Pan using Three.js)
+- **nteractive 3D Viewer** (Rotate, Zoom, Reset, Pan, Grid View)
 - **Secure API** (Built with Express.js, MongoDB, and JWT authentication)
 
 ## Tech Stack
