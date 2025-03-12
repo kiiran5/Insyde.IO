@@ -5,7 +5,7 @@ INSYDE is an interactive web application designed for viewing and manipulating 3
 ## Features
 - **User Authentication** (Sign up & Login)
 - **Upload 3D Models** (STL/OBJ format)
-- **nteractive 3D Viewer** (Rotate, Zoom, Reset, Pan, Grid View)
+- **Interactive 3D Viewer** (Rotate, Zoom, Reset, Pan, Grid View)
 - **Secure API** (Built with Express.js, MongoDB, and JWT authentication)
 
 ## Tech Stack
