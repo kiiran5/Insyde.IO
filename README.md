@@ -66,8 +66,9 @@ npm start
 The backend will run on `http://localhost:5000`
 
 ### Frontend Setup
-
+```
 npm install
+```
 ```
 Start the frontend server:
 ```sh
