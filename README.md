@@ -35,14 +35,10 @@ Ensure you have the following installed:
 ### Clone the Repository
 ```sh
 git clone https://github.com/kiiran5/Insyde.IO.git
-cd insyde
+cd Insyde.IO
 ```
 
 ### Backend Setup
-Navigate to the backend folder:
-```sh
-cd backend
-```
 Install dependencies:
 ```sh
 npm install
@@ -52,7 +48,7 @@ Install and configure MongoDB Compass:
 1. Download and install **MongoDB Compass**
 2. Open **MongoDB Compass** and connect to the local database using:
    ```sh
-   mongodb://localhost:27017/insyde
+   mongodb://localhost:27017/3d-viewer
    ```
 3. Create a new database named **insyde**
 
@@ -70,25 +66,19 @@ npm start
 The backend will run on `http://localhost:5000`
 
 ### Frontend Setup
-Navigate to the frontend folder:
-```sh
-cd frontend
-```
-Install dependencies:
-```sh
+
 npm install
 ```
 Start the frontend server:
 ```sh
-npm start
+npm run dev
 ```
-The frontend will run on `http://localhost:3000`
+The frontend will run on `http://localhost:5173`
 
 ## Usage
 1. Register/Login to the platform.
 2. Upload a 3D model file (STL/OBJ).
 3. View and interact with the 3D model using the UI controls.
-4. Check history to view previously uploaded models.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
