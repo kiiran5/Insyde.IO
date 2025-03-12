@@ -6,7 +6,6 @@ INSYDE is a web-based CAD viewer that allows users to upload, view, and manipula
 - **User Authentication** (Register/Login)
 - **Upload 3D Models** (STL/OBJ format)
 - **View & Manipulate Models** (Rotate, Zoom, Reset, Download, Grid, Pan using Three.js)
-- **History Preview** (List of uploaded models for users)
 - **Secure API** (Built with Express.js, MongoDB, and JWT authentication)
 
 ## Tech Stack
@@ -60,8 +59,8 @@ Install and configure MongoDB Compass:
 Create a `.env` file and add the following variables:
 ```sh
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/insyde
-JWT_SECRET=insydesecretkey
+MONGODB_URI=mongodb://localhost:27017/3d-viewer
+JWT_SECRET=mysecretkey
 ```
 
 Start the backend server:
