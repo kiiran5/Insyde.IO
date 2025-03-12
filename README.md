@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/ayyappa53/Insyde.git
+git clone https://github.com/kiiran5/Insyde.IO.git
 cd insyde
 ```
 
