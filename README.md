@@ -69,9 +69,8 @@ The backend will run on `http://localhost:5000`
 ```
 npm install
 ```
-```
 Start the frontend server:
-```sh
+```
 npm run dev
 ```
 The frontend will run on `http://localhost:5173`
