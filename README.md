@@ -81,8 +81,13 @@ The frontend will run on `http://localhost:5173`
 3. View and interact with the 3D model using the UI controls.
 
 ## License
+
 This project is open-source and available under the [MIT License](LICENSE).
 ## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/c572648b-532b-4cef-98f8-8bdcceae1481
+
+
 
 ## Contact
 Feel free to ask any type of questions.
